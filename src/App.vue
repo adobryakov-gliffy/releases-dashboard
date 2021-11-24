@@ -1,27 +1,14 @@
 <template>
   <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
-      <div class="d-flex align-center">
-        
-      <v-spacer></v-spacer>
-        <v-img
+        <img
           alt="Perforce"
-          class="shrink mt-1 hidden-sm-and-down"
+          height="30"
+          style="margin: 20px"
           contain
           min-width="200"
           src="https://www.perforce.com/themes/custom/themekit/logo.svg"
           width="200"
         />
-      </div>
-
-      <v-spacer></v-spacer>
-
-
-    </v-app-bar>
 
     <v-main>
       <HelloWorld/>
