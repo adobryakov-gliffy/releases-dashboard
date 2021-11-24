@@ -1,4 +1,4 @@
-# project-dashboard
+# Releases dashboard
 
 ## Project setup
 ```
